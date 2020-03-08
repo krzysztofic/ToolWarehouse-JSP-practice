@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.available{
+      background-color: green;
+  }
+
+.not-available{
+    background-color: red;
+}
+
+form {
+    margin: 0;
+}
+
+.label {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 10px;
+}
